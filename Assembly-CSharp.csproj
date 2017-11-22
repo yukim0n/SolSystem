@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Ellipse.cs" />
      <Compile Include="Assets\Scripts\EllipseRenderer.cs" />
+     <Compile Include="Assets\Scripts\FlyCam.cs" />
      <Compile Include="Assets\Scripts\OrbitalMotion.cs" />
      <None Include="Assets\Scripts\StarNestSkyboxMask.shader" />
  <Reference Include="Facebook.Unity.Settings">
